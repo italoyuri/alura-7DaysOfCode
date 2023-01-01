@@ -1,7 +1,5 @@
-<meta charset="utf-8">
-
-<script type="text/javascript">
-	
+function logica_js_1(){
+		
 	let numeroUm = 1;
 	let stringUm = '1';
 	let numeroTrinta = 30;
@@ -57,6 +55,4 @@
 	} else {
 		console.log('As variáveis numeroDez e stringDez não têm o mesmo valor');
 	}
-
-
-</script>
+}
