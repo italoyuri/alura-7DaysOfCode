@@ -1,6 +1,6 @@
 # alura-7DaysOfCode
 
-Rápida descrição do objetivo de fazer esse projeto
+Fazendo esse projeto para concluir a formação Iniciante em Programação da Alura e consolidar minhas fundações
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
