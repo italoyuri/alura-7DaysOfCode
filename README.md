@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode**
-| :label: Tecnologias | javascript, html
+| :label: Tecnologias | javascript, html, css
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
